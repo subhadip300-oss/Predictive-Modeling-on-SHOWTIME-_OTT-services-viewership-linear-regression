@@ -1,0 +1,2 @@
+# Predictive-Modeling-on-SHOWTIME-_OTT-services-viewership-linear-regression
+Predictive Modeling project using Linear Regression to identify drivers of first-day OTT content viewership. Conducted EDA, feature engineering, VIF and assumption testing on 1,000 records. Found trailer views, platform visitors, release day, and seasonality impact viewership. Final model achieved Adj. R² = 0.786 with 9% MAPE.
